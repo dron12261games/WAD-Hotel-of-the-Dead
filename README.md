@@ -2,6 +2,12 @@
 
 # STATUS: ✅RELEASED
 
+## Resources in use:
+- [jimmytex.wad](https://drive.google.com/file/d/1r77r_FHEuyTESY0BbZEmRXvS3ITYOTxC/view?usp=share_link)
+- [32in24-15-tex_v2.wad](https://esselfortium.net/wasd/32in24-15_tex_v2.zip) (only SKY)
+- Thunder sounds from Eternity Engine resources
+- Music from [D64D2.wad](https://www.doomworld.com/idgames/levels/doom2/megawads/d64d2) by DILDOMASTER666 and [ogg cover](https://youtu.be/mcxGNVcEySs) by DAR.
+
 ![Logo](https://static.doomworld.com/monthly_2023_01/MENU2.png.99a89140e8c71941c46e345628c91da4.png)
 
 My single-player map in Boom format called "Hotel of the Dead".
