@@ -6,6 +6,8 @@
 
 My single-player map in Boom format called "Hotel of the Dead".
 
+### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-Hotel-of-the-Dead/releases/latest/download/HOTDv4.zip)
+
 Initially the first version was created in 3 days for the community project "666crets", organized by RED77. Later, after another extra day of revisions, the current version was ready for separate distribution as a standalone .wad file, not tied to the framework of the community project. It should take up to 20 minutes for Ultra-Violence.
 
 Should run on any relatively new (as of January 28, 2023) Boom-compatible port. For the best gaming experience, I recommend using Doom Retro, Eternity Engine, Woof! or ZDoom 2.8.1. The level is designed for NoJump and Software render (or something successfully emulated and similar).
