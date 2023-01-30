@@ -1,0 +1,129 @@
+===========================================================================
+Advanced engine needed  : Should run on any relatively new (as of January 28,
+                          2023) Boom-compatible port. For the best gaming
+                          experience, I recommend using Doom Retro, Eternity
+                          Engine, Woof! or ZDoom 2.8.1.
+Primary purpose         : Single play
+===========================================================================
+Title                   : Hotel of the Dead
+Filename                : HOTDv4.wad
+Release date            : January 28, 2023
+Author                  : DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : There have been no publicly released projects yet.
+                          Only various publications in closed communities.
+Misc. Author Info       : Mapper, mod maker, programmer, and quite a bit of
+                          pixel art artist.
+
+Description             : Initially the first version was created in 3 days
+                          for the community project "666crets", organized by
+                          RED77. Later, after another extra day of revisions,
+                          the current version was ready for separate
+                          distribution as a standalone .wad file, not tied to
+                          the framework of the community project.
+
+			  The level was designed to:
+			  Software Render (or Software-like)
+			  No Jump
+                          
+                          Storyline:
+                          You come to your senses on the street 
+                          outside the hotel building and suddenly 
+                          find crowds of demonic creatures all 
+                          around you. You realize that you need 
+                          to get out of the place as quickly as 
+                          possible. 
+                          But there's HE waiting outside the main 
+                          gate. Knowing that you are incapable of 
+                          confronting this horror now, you have no 
+                          choice but to take refuge in the hotel 
+                          building itself. 
+                          There is no easy way out...
+
+Additional Credits to   : The map was created by DRON12261 in 4 days.
+                          
+                          Soundtrack ("A lot to learn" from MAP29,
+                          D64D2.wad):
+                          MIDI version by DILDOMASTER666
+                          OGG version by DAR
+                          
+                          Thunder sounds from Eternity Engine resources.
+			  The texture pack used was jimmytex.wad.
+			  SKY1 was taken from 32in24-15_tex_v2.wad.
+                          
+                          Special thanks for testing:
+                          Dexiaz
+                          NicolasTheFuggit
+                          Olphian
+                          
+                          Special thanks to DeathWish, for helping me figure
+                          out a couple of technical nuances in implementing
+                          the 3D elevator under Boom (the one on the street
+                          leads to the second floor).
+                          
+                          Special thanks to RED77, for organizing the
+                          666crets community project, which gave birth to the
+                          idea for this map.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01(Intro), MAP02(Level itself)
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 4 days
+Editor(s) used          : SLADE; 
+			  Ultimate Doom Builder;
+			  Aseprite.
+Tested With             : DSDA - [0.25.6]; 
+			  Woof! - [10.4.0];
+			  prBoom+ - [2.6.1];
+			  Eternity Engine - [4.02];
+			  Doom Retro - [4.7.2];
+			  GZDoom - [4.9.0];
+			  Zandronum - [3.1];
+			  LZDoom - [3.88];
+			  ZDoom - [2.8.1];
+			  ZDaemon - [1.10.22]; 
+			  Odamex - [10.3]; 
+			  Crispy Doom - [5.12.0] (without intermission texts).
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
