@@ -8,7 +8,7 @@
 - Thunder sounds from Eternity Engine resources
 - Music from [D64D2.wad](https://www.doomworld.com/idgames/levels/doom2/megawads/d64d2) by DILDOMASTER666 and [ogg cover](https://youtu.be/mcxGNVcEySs) by DAR.
 
-![Logo](https://static.doomworld.com/monthly_2023_01/MENU2.png.99a89140e8c71941c46e345628c91da4.png)
+![Logo](./screens/1.png)
 
 My single-player map in Boom format called "Hotel of the Dead".
 
@@ -46,8 +46,8 @@ List of tested ports:
 - Crispy Doom - [5.12.0] (without intermission texts).
 
 Screenshots:
-![Screen1](https://static.doomworld.com/monthly_2023_01/1314578507_MyCollages(3).png.2eef8b5cded8018438e90b46fcb96b79.png)
-![Screen2](https://static.doomworld.com/monthly_2023_01/2018755172_MyCollages(4).png.8cced9180be1833a384074b9c734323c.png)
+![Screen1](./screens/2.png)
+![Screen2](./screens/3.png)
 
 Additional links:
 - [DoomWorld Topic](https://www.doomworld.com/forum/topic/133699-boom-doom2-hotel-of-the-dead-by-dron12261-1-level/)
